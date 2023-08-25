@@ -1,7 +1,7 @@
 # Steelcase-Inc.-Customer-Analysis-SQL
 
-# Project Overview
-Steelcase Inc. is an American manufacturer of furniture, casegoods, seating, and storage and partitioning systems for offices, hospitals, classrooms, and residential interiors.
+# Business Problem
+Steelcase Inc. is an American manufacturer of furniture, casegoods, seating, and storage and partitioning systems for offices, hospitals, classrooms, and residential interiors. The primary objective of this initiative is to perform an in-depth analysis of the historical sales data and extract actionable insights that will facilitate informed decision-making across multiple facets of the business. By addressing a series of advanced analysis questions, the company aims to establish a comprehensive strategy that aligns with market trends, customer preferences, and operational efficiency.
 
 
 
